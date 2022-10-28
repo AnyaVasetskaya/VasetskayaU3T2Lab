@@ -2,11 +2,11 @@ public class Main {
     public static void main(String[] args) {
 
         // TASK 1: write your code here!
-        Cat killua = new Cat("Killua", 3);
+        /*Cat killua = new Cat("Killua", 3);
         Cat yato = new Cat("Yato", 7);
         CatHouse house = new CatHouse(killua, yato, "Anya");
         System.out.println(house.houseInfo());
-        house.rollCall();
+        house.rollCall();*/
 
         // TASK 2-3: write the methods as specified, then write code below to
         // test your new methods using the objects you created above in Task 1
@@ -17,7 +17,7 @@ public class Main {
 
 
         // TASK 4: COMPLETE TEST CASES: uncomment the code below to fully test
-/*
+
     System.out.println("------- Test set 1 -------");
     Cat garfield = new Cat("Garfield", 5);
     Cat crookshanks = new Cat("Crookshanks", 6);
@@ -72,6 +72,6 @@ public class Main {
     sameCats.rollCall();
 
     sameCats.catNoise();
- */
+
     }
 }
